@@ -1,6 +1,6 @@
 As a senior programmer, I have six years of experience designing and developing various software solutions on multiple technology platforms and for numerous clients across the globe. I love to design solutions for complex business use cases, implement, test, and deliver back-end web applications using various technologies. No two days are the same for me; I brainstorm ideas, analyse algorithms, build code, fix bugs, integrate new systems, and collaborate.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/lfc131-green-software-for-practitioners.png" width="100">
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
 - 📫 How to reach me 
