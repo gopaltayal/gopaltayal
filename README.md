@@ -28,6 +28,7 @@ As a senior programmer, I have six years of experience designing and developing 
 ### 👷 Check out what I'm currently working on
 - https://github.com/as-ideas/rafl
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 [![@gopaltayal's Holopin board](https://holopin.me/gopaltayal)](https://holopin.io/@gopaltayal)
