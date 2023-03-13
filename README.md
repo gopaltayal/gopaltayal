@@ -2,6 +2,7 @@ As a senior programmer, I have six years of experience designing and developing 
 <div>
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/lfc131-green-software-for-practitioners.png" width="100">
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/aws-certified-cloud-practitioner.png" width="100">
+<img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/aws-certified-solutions-architect-associate.png" width="100">
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/aws-partner-accreditation-technical.png" width="100">
 </div>
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
