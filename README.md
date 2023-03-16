@@ -29,9 +29,11 @@ As a senior programmer, I have six years of experience designing and developing 
   <br />
  
 </p>
-### 👷 Check out what I'm currently working on
-  - https://github.com/as-ideas/rafl
-  - https://github.com/gopaltayal/aws-starter
 
+### 👷 Check out what I'm currently working on
+<ul>
+  <li>https://github.com/as-ideas/rafl</li>
+  <li>https://github.com/gopaltayal/aws-starter</li>
+</ul>
 
 [![@gopaltayal's Holopin board](https://holopin.me/gopaltayal)](https://holopin.io/@gopaltayal)
