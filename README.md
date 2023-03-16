@@ -31,6 +31,7 @@ As a senior programmer, I have six years of experience designing and developing 
 </p>
 ### 👷 Check out what I'm currently working on
 - https://github.com/as-ideas/rafl
+- https://github.com/gopaltayal/aws-starter
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
