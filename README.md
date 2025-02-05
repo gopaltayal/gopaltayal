@@ -1,4 +1,4 @@
-As a senior programmer, I have six years of experience designing and developing various software solutions on multiple technology platforms and for numerous clients across the globe. I love to design solutions for complex business use cases, implement, test, and deliver back-end web applications using various technologies. No two days are the same for me; I brainstorm ideas, analyse algorithms, build code, fix bugs, integrate new systems, and collaborate.
+As a senior programmer, I have 8 years of experience designing and developing various software solutions on multiple technology platforms and for numerous clients across the globe. I love to design solutions for complex business use cases, implement, test, and deliver back-end web applications using various technologies. No two days are the same for me; I brainstorm ideas, analyse algorithms, build code, fix bugs, integrate new systems, and collaborate.
 <div>
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/lfc131-green-software-for-practitioners.png" width="100">
 <img src="https://github.com/gopaltayal/gopaltayal/blob/main/assets/aws-certified-cloud-practitioner.png" width="100">
@@ -9,8 +9,7 @@ As a senior programmer, I have six years of experience designing and developing 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
 - 📫 How to reach me 
-  -  Mail: gopal.tayal@kreuzwerker.de
-  -  Slack: U044Y99QDRT 
+  -  Mail: gopal.tayal@pcg.io
 
 ## Languages and Tools
 
@@ -35,6 +34,10 @@ As a senior programmer, I have six years of experience designing and developing 
 <ul>
   <li>https://github.com/as-ideas/rafl</li>
   <li>https://github.com/gopaltayal/aws-starter</li>
+  <li>https://github.com/kreuzwerker/awin-link-service</li>
+  <li>https://github.com/pcg-x-dev/alpaca-operator-frontend</li>
+  <li>https://github.com/pcg-x-dev/alpaca-operator-backend</li>
+  <li>https://github.com/pcg-x-dev/alpaca-operator-backend-mock</li>
 </ul>
 
 [![@gopaltayal's Holopin board](https://holopin.me/gopaltayal)](https://holopin.io/@gopaltayal)
